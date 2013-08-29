@@ -1,0 +1,14 @@
+# view land/res/layout-land/dialog_color_picker.xml #generated:32
+# view land/res/layout-land/dialog_color_picker.xml #generated:48
+# view large-land/res/layout-large-land/dialog_color_picker.xml #generated:43
+# view large-land/res/layout-large-land/dialog_color_picker.xml #generated:61
+# view res/layout/dialog_color_picker.xml #generated:42
+# view res/layout/dialog_color_picker.xml #generated:60
+# view res/layout/preference_preview_layout.xml #generated:1
+-keep class afzkl.development.colorpickerview.view.ColorPanelView { <init>(...); }
+
+# view land/res/layout-land/dialog_color_picker.xml #generated:20
+# view large-land/res/layout-large-land/dialog_color_picker.xml #generated:26
+# view res/layout/dialog_color_picker.xml #generated:26
+-keep class afzkl.development.colorpickerview.view.ColorPickerView { <init>(...); }
+
